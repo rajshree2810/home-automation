@@ -1,5 +1,5 @@
 
-// Uncomment the following line to enable serial debug output
+
 #define ENABLE_DEBUG
 
 #ifdef ENABLE_DEBUG
@@ -17,10 +17,10 @@
 
 #define WIFI_SSID         "rajshree"    
 #define WIFI_PASS         "280Rj&"
-#define APP_KEY           "8eb54d90-2d94-4356-ba54-d7662f580e6c"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "ab446ccc-63e6-4606-a8be-d68e49000447-a787ef4b-e0cd-436a-96fb-abb3ff820c32"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define APP_KEY           "8eb54d90-2d94-4356-ba54-d7662f580e6c"      
+#define APP_SECRET        "ab446ccc-63e6-4606-a8be-d68e49000447-a787ef4b-e0cd-436a-96fb-abb3ff820c32"   
 
-//Enter the device IDs here
+//Enter the device IDs 
 #define device_ID_1   "617f7fac0e8d611820f47267"
 
 // define the GPIO connected with Relays and switches
